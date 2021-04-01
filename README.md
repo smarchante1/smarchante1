@@ -1,9 +1,11 @@
-### Hiya, I'm Steph! 💃🏽
+### ![Kawaii](https://i180.photobucket.com/albums/x169/kawaiinesss/pinkhart.gif) Hiya, I'm Steph! 💃🏽
 
 Welcome to my little space here on Github!
 I'm a Software Engineer, and Educator from sunny 🌇 Los Angeles, California
 
-I'm super passionate about 💜 Bass Guitar, Drawing and Astronomy; _you'll probably finding me geeking out on one of those things when I'm not programming!_
+I'm super passionate about 💜 Bass Guitar, Drawing and Astronomy; _you'll probably finding me geeking out on one of those things when I'm not programming!_.
+
+### My Languages and Frameworks
 <!--
 **smarchante1/smarchante1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
