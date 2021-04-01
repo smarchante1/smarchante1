@@ -1,4 +1,4 @@
-### ![Kawaii](https://64.media.tumblr.com/c9fe6920507d3fc563159ae49e6d1ca9/tumblr_inline_mfz43vF5TW1roozkr.gif) Hiya, I'm Steph! 
+### ![Kawaii](https://i78.photobucket.com/albums/j107/Nienna_weeper/Pixels/Music/thc38fb012.gif) Hiya, I'm Steph! 
 
 ![Kawaii](https://64.media.tumblr.com/tumblr_mab11hFMGa1roozkr.gif) 
 
