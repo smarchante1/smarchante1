@@ -3,7 +3,7 @@
 ![Kawaii](https://64.media.tumblr.com/tumblr_mab11hFMGa1roozkr.gif) 
 
 Welcome to my little space here on Github!
-I'm a Software Engineer, and Educator from sunny 🌇 Los Angeles, California
+I'm a Software Engineer, and Educator from sunny 🌇 Los Angeles, California.
 
 I'm super passionate about 💜 Bass Guitar, Drawing and Astronomy; _you'll probably finding me geeking out on one of those things when I'm not programming!_.
 
