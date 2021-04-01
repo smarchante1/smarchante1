@@ -5,7 +5,7 @@
 Welcome to my little space here on Github!
 I'm a Software Engineer, and Educator from sunny 🌇 Los Angeles, California.
 
-I'm super passionate about 💜 Bass Guitar, Drawing and Astronomy; _you'll probably finding me geeking out on one of those things when I'm not programming!_.
+I'm super passionate about 💜 Bass Guitar, Drawing and Astronomy; _you'll probably finding me geeking out on one of those things when I'm not programming!_
 
 ### My Languages and Frameworks
 <!--
