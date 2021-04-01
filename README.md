@@ -1,4 +1,4 @@
-### ![Kawaii](https://i180.photobucket.com/albums/x169/kawaiinesss/pinkhart.gif) Hiya, I'm Steph! 💃🏽
+### ![Kawaii](https://64.media.tumblr.com/c9fe6920507d3fc563159ae49e6d1ca9/tumblr_inline_mfz43vF5TW1roozkr.gif) Hiya, I'm Steph! 💃🏽
 
 Welcome to my little space here on Github!
 I'm a Software Engineer, and Educator from sunny 🌇 Los Angeles, California
